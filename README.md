@@ -1,4 +1,3 @@
-                                                    Lobo de mar anclado en la ciudad.
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/c280070c-9c33-4ca9-a2bd-57113a04ee18" alt="Descripción de la imagen" width="275" height="275">
 
