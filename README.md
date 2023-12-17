@@ -14,5 +14,22 @@
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/b887f765-8cc5-43a5-a957-43f145a0a8ff" alt="Descripción de la imagen" width="275" height="275">
 
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/cd0a051f-f597-4277-bf5f-ca01a6b6ad14" alt="Descripción de la imagen" width="275" height="275">
+
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/350b63a3-837d-443d-b335-99b4af48d35a" alt="Descripción de la imagen" width="275" height="275">
+
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/8c88d86c-34b2-4d9d-95a1-9507db0d240c" alt="Descripción de la imagen" width="275" height="275">
+
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/a74c6df0-67f4-43f4-85df-ca6c27c30f4d" alt="Descripción de la imagen" width="275" height="275">
+
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/9465e76b-ff3a-4316-a894-7f9460aeb56a" alt="Descripción de la imagen" width="275" height="275">
+
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/d6dd4833-754b-49af-befe-6610befa2434" alt="Descripción de la imagen" width="275" height="275">
+
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/7c896550-a8ed-47f1-aef0-1628961aa415" alt="Descripción de la imagen" width="275" height="275">
+
+
+
+
 
 
