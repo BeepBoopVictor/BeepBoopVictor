@@ -15,9 +15,7 @@
 
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/cd0a051f-f597-4277-bf5f-ca01a6b6ad14" alt="Descripción de la imagen" width="275" height="275">
-
 <img src="https://i.scdn.co/image/ab67616d0000b273ffbb66eddb82445e0c9c6cb4" alt="Descripción de la imagen" width="275" height="275">
-
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/8c88d86c-34b2-4d9d-95a1-9507db0d240c" alt="Descripción de la imagen" width="275" height="275">
 
 
