@@ -5,6 +5,7 @@
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/1eeb7f55-f5b0-4f42-ad66-cb712a0b9efb" alt="Descripción de la imagen" width="275" height="275">
 
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/dc772fd0-d058-4078-8f0b-2e1a34cf7095" alt="Descripción de la imagen" width="275" height="275">
 
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/f33bcd7f-059f-43e7-865f-fd59191cbd84" alt="Descripción de la imagen" width="275" height="275">
