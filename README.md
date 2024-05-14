@@ -18,7 +18,7 @@
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/350b63a3-837d-443d-b335-99b4af48d35a" alt="Descripción de la imagen" width="275" height="275">
 
-<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/85d32866-fd13-8df9-33fc-dc7b6ea483c2/886443624252" alt="Descripción de la imagen" width="270" height="270">
+<img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/58005f3b-b138-432d-96ec-8ae53541d17e" alt="Descripción de la imagen" width="270" height="270">
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/8c88d86c-34b2-4d9d-95a1-9507db0d240c" alt="Descripción de la imagen" width="275" height="275">
 
