@@ -1,6 +1,14 @@
 
 # Beep Boop Victor
 
+Amigo de la naturaleza, la tecnología y los datos.
+
+
+Friend of nature, tecnology and data.
+
+----
+
+Mis albumes favoritos:
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/c280070c-9c33-4ca9-a2bd-57113a04ee18" alt="Descripción de la imagen" width="275" height="275">
 
