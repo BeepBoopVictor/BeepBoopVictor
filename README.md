@@ -52,3 +52,15 @@ Mis albumes favoritos:
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/9a3bbb95-2db1-4dd6-9151-01f11431e633" alt="Descripción de la imagen" width="275" height="275">
 
 <img src="https://github.com/BeepBoopVictor/BeepBoopVictor/assets/145380029/e6752b3a-a3ce-4542-bb7f-b966dcebef9a" alt="Descripción de la imagen" width="275" height="275">
+
+
+
+<img src="https://github.com/user-attachments/assets/df49ea37-c706-4001-bad2-774936038d72" alt="Descripción de la imagen" width="275" height="275">
+<img src="https://github.com/user-attachments/assets/2c5565ff-10b3-4285-a5e0-9f1e03808010" alt="Descripción de la imagen" width="275" height="275">
+<img src="https://github.com/user-attachments/assets/5e63c75a-273f-4fc1-9a7c-a9e9fc052f14" alt="Descripción de la imagen" width="275" height="275">
+
+<img src="https://github.com/user-attachments/assets/13b260f6-3407-437a-b90d-d3e784c79016" alt="Descripción de la imagen" width="275" height="275">
+<img src="https://github.com/user-attachments/assets/5a16acf4-1ed3-4953-b63a-c708ef552c52" alt="Descripción de la imagen" width="275" height="275">
+<img src="https://github.com/user-attachments/assets/d33d8253-1060-4c22-a7f0-a3607f0b0919" alt="Descripción de la imagen" width="275" height="275">
+
+
