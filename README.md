@@ -57,7 +57,8 @@ Mis albumes favoritos:
 
 <img src="https://github.com/user-attachments/assets/df49ea37-c706-4001-bad2-774936038d72" alt="Descripción de la imagen" width="275" height="275">
 <img src="https://github.com/user-attachments/assets/2c5565ff-10b3-4285-a5e0-9f1e03808010" alt="Descripción de la imagen" width="275" height="275">
-<img src="https://github.com/user-attachments/assets/5e63c75a-273f-4fc1-9a7c-a9e9fc052f14" alt="Descripción de la imagen" width="275" height="275">
+<img src="https://github.com/user-attachments/assets/f25cab87-7069-43b9-a7be-c4c0cc1ad939" alt="Descripción de la imagen" width="275" height="275">
+
 
 <img src="https://github.com/user-attachments/assets/13b260f6-3407-437a-b90d-d3e784c79016" alt="Descripción de la imagen" width="275" height="275">
 <img src="https://github.com/user-attachments/assets/5a16acf4-1ed3-4953-b63a-c708ef552c52" alt="Descripción de la imagen" width="275" height="275">
