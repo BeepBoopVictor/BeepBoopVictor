@@ -1,12 +1,8 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+### BEEP BOOP
 
-Amigo de la naturaleza, la tecnología y los datos.
-
-
-Friend of nature, tecnology and data.
+* Amigo de la naturaleza, la tecnología y los datos.
+* Friend of nature, tecnology and data.
 
 ----
 
