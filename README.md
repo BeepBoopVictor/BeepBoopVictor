@@ -1,3 +1,6 @@
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/d05a1258-8899-4798-9c46-9fdceb4a8490" />
+
+
 # ¡Hola! Soy Víctor Gil
 
 Soy científico e Ingeniero de Datos, graduado en la Universidad de Las Palmas de Gran Canaria. Me interesan las bases de datos, el análisis de las mismas y el aprendizaje por refuerzo aplicado a soluciones robóticas.
