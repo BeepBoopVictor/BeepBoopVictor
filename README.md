@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img width="100%" src="./assets/banner.png" alt="banner" />
+<img width="100%" height="50%" src="./assets/banner.png" alt="banner" />
 
 <!-- HEADER -->
 <div align="center">
