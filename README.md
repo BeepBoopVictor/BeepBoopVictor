@@ -4,8 +4,6 @@
 <!-- HEADER -->
 <div align="center">
 
-  <img src="./assets/profile.png" width="150" style="border-radius: 50%;" alt="Víctor Gil" />
-
   # Víctor Gil
 
   **`Científico e Ingeniero de Datos` · `Data Scientist & Engineer`**
